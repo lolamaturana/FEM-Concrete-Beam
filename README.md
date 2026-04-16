@@ -54,8 +54,3 @@ This project demonstrates a hybrid workflow between commercial software and cust
 
 ## Academic Context
 These projects were completed for the course **ENMEE3332: Finite Elements** at **Columbia University, The Fu Foundation School of Engineering and Applied Science** (Fall 2025), under the supervision of **Professor H. Waisman**.
-
-## How to Run
-1.  **Abaqus Project:** Open the `.inp` files in Abaqus/CAE or submit via command line to view the structural results.
-2.  **MATLAB Project:** * Ensure all `.m` scripts and the `.inp` mesh files are in the same directory.
-    * Run the main script (e.g., `FinalProject_Solver.m`) to perform the analysis and generate plots.
