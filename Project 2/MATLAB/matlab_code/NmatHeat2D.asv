@@ -1,0 +1,9 @@
+% Shape function 
+ 
+function N = NmatHeat2D(nodeIds, nodeCoords, elemIds, elemConn)
+% modify the shapee functions for triangular elements
+% Calculate the local coordinates psi and eta based on the node coordinates
+psi = (nodeCoords(elemConn(:, 1), 1) + nodeCoords(elemConn(:, 2), 1) + nodeCoords(elemConn(:, 3), 1)) / 3;
+eta = (nodeCoords(elemConn(:, 1), 2) + nodeCoords(elemConn(:, 2), 2) + nodeCoords(elemConn(:, 3), 2)) / 3;
+       
+        N  = 
