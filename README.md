@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Columbia_University_1754.svg" width="400" valign="left">
 
-# (ABAQUS) Finite Element Analysis: Bending of a Concrete Beam with Holes
+# Finite Element Analysis: Bending of a Concrete Beam with Holes - Using ABAQUS
 
 ## Project Description
 This project analyzes the behavior of two cantilever concrete beam designs with different hole shapes subjected to a uniform load. The primary objective is to evaluate and compare deformation and stress distribution using the finite element method.
