@@ -1,7 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Columbia_University_1754.svg" width="400" valign="left">
 
-# Finite Element Analysis Portfolio: Structural & Fluid Mechanics
-
+# Finite Element Analysis Portfolio: Structural & Fluid Mechanics (Civil Engineering)
 This repository contains two major projects developed using the **Finite Element Method (FEM)** to solve complex engineering problems in structural mechanics and fluid dynamics.
 
 ---
